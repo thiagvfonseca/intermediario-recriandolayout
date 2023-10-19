@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  text-align: center;
+}
+
+#main {
+  width: 626px;
+  height: 486px;
+  margin: 64px auto;
+}
+
+#main img {
+  margin-bottom: 32px;
+}
+
+#main h1 {
+  margin-bottom: 16px;
+}
+
+span {
+  color: #EE24FF;
+}
